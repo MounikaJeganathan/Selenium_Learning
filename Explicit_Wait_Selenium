@@ -35,6 +35,7 @@ public class ExplicitWaitExample {
 		myProfile.click();
 		
 		adding new features - testing
+		Adding new feature for wait - Issue session - enchancement
 
 	}
 
