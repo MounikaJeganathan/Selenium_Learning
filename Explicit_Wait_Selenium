@@ -33,6 +33,8 @@ public class ExplicitWaitExample {
 				ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\'fadein\']/div[1]/div/div[3]/ul/li[4]/a")));
 
 		myProfile.click();
+		
+		adding new features - testing
 
 	}
 
